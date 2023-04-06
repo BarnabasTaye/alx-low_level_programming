@@ -3,8 +3,8 @@
 /**
  * get_bit - value of a bit at a given index
  * @n: decimal parameter
- * @index: index
- * Return: val
+ * @index: index_bit
+ * Return: val @barnabasTaye
  */
 int get_bit(unsigned long int n, unsigned int index)
 {
