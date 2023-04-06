@@ -5,6 +5,7 @@
  * to get from one number to another
  * @n: parameter
  * @m: destiny
+ * ni plagarism
  * Return: nflips
  */
 unsigned int flip_bits(unsigned long int n, unsigned long int m)
