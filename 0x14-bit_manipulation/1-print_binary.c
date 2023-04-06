@@ -2,7 +2,7 @@
 
 /**
  * print_binary - prints the binary representation of a number
- * @n: parameter
+ * @n: parameter _BarnabasTaye@github.com
  */
 void print_binary(unsigned long int n)
 {
